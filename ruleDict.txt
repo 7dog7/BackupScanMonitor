@@ -1,0 +1,4 @@
+{dictTxt}{urlFormat}.{postfix}
+{dictTxt}-{urlFormat}.{postfix}
+{dictTxt}_{urlFormat}.{postfix}
+
